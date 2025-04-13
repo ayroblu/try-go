@@ -13,4 +13,5 @@ go mod init try
 - [Language Spec](https://go.dev/ref/spec)
 - [Getting Started](https://go.dev/doc/code)
 - [Effective Go](https://go.dev/doc/effective_go)
+- [String formatting variables](https://pkg.go.dev/fmt)
 
